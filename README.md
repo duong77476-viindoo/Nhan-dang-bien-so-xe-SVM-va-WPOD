@@ -1,4 +1,5 @@
 Bản gốc của tác giả có link ở bên dưới, project này được chỉnh sửa trên bản gốc để phục vụ cho bài tập lớn môn thị giác máy tính
+
 Những chỉnh sửa khác đi so với bản gốc : Thêm giao diện, cải thiện việc tách ngưỡng giúp phát hiện biển tốt hơn, Chỉnh sửa để nhận được biên vuông và ngang
 # MiAI_LP_Detection_SVM
 Use WPOD and SVM to detect license plate
